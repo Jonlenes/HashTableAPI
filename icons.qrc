@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icon_find.png</file>
+        <file>icons/icon_open.png</file>
+        <file>icons/icon_quit.png</file>
+        <file>icons/icon_text.png</file>
+        <file>icons/icon_text_org.png</file>
+        <file>icons/icon_vocabulary.png</file>
+    </qresource>
+</RCC>

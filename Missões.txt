@@ -1,0 +1,9 @@
+OK	-Mudar o encontrar por find
+OK	-colocar os icones
+OK	-colocar icones na barra
+OK	-fazer find na table
+OK	-fazer new find na table ao cliclar com botão direito
+OK	-resolver problemas de repeditação
+OK	-resolver probelmas no Hash das palavras
+OK	-remover espavos vazios do grid
+OK	-Ao fechar uma, fechar tb a outra
