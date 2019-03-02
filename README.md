@@ -1,4 +1,4 @@
-# Hash Table API
+# Hash Table API (2014)
 Tool for didactic purposes that implements and tests various hash table type and switching functions.
 
 <p align="center"> <img src="imgs/1.png"></p>
